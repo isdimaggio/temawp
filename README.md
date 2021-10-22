@@ -4,27 +4,18 @@
 ## Un sito per le scuole italiane
 
 
-**Design Scuole Italia** è un tema di WordPress utilizzabile per i siti internet delle **Scuole Italiane**.
-
+**Design Scuole Italia** è un tema di WordPress utilizzabile per i siti internet delle **Scuole Italiane**.   
+Questo fork contiene anche le modifiche apportate dall' IT "Luigi Di Maggio"
 ## Installazione e supporto
 #### Come scaricare il tema
 
 Per scaricare il progetto esegui il seguente comando git
 
-+ git clone https://github.com/italia/design-scuole-wordpress-theme.git
++ git clone https://github.com/isdimaggio/temawp
 
 per aggiornare invece il tema da una versione precedentemente scaricata va eseguito
 
 + git pull
-
-
-NB: è stata rimossa la dipendenza del tema con i sottomoduli CMB2, non sono più necessari i seguenti comandi:
-
-+ cd design-scuole-wordpress-theme/
-+ git submodule init
-+ git submodule update --remote
-
-In caso di problemi nell'aggiornamento di un repository già installato con i sottomoduli, è sufficiente rimuovere la directory inc/vendor/CMB2 prima di fare la git pull. 
 
 #### Supporto tecnico ed editoriale
 È attivo il canale slack del progetto, presidiato sia dai developer del tema che dalle prime scuole che hanno partecipato alla sperimentazione.
@@ -35,6 +26,9 @@ https://developersitalia.slack.com/messages/design-siti-scuole/
 
 Se non avete una utenza slack di Developers Italia dovete prima crearla da qui:
 https://slack.developers.italia.it/
+
+#### Modifiche dell' IT "Luigi Di Maggio"
+Visita [vitto.dev](https://vitto.dev) o contatta [hi@vitto.dev](mailto:hi@vitto.dev)
 
 ## Indice
 

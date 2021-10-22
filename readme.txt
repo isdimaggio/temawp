@@ -6,11 +6,12 @@ Stable tag: 1.0.5
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-Design Scuole Italia
+Design Scuole Italia / IT Luigi Di Maggio
 
 == Description ==
 
 Design Scuole Italia è il tema di WordPress per i siti delle Scuole Italiane. Rispetta le linee guida di design dell’Agenzia per l’Italia digitale rilasciare dal Team per la Trasformazione Digitale. Utilizza Bootstrap Italia.
+Contiene modifiche dell' IT Luigi Di Maggio.
 
 == Installation ==
 
