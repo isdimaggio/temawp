@@ -25,3 +25,6 @@
 nbproject
 Thumbs.db
 .vscode
+
+#internal deploy script
+deployscuola.sh
