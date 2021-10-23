@@ -15,22 +15,22 @@ if(trim($citazione) != ""){
               </g>
 				<defs>
 					<linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1280,-60.5791,60.5791,-1280,1280,261.79)">
-						<stop offset="0" style="stop-color:#d1344c;stop-opacity:1"/>
-						<stop offset="1" style="stop-color:#ab2b3e;stop-opacity:1"/>
+						<stop offset="0" style="stop-color:#2A63F0;stop-opacity:1"/>
+						<stop offset="1" style="stop-color:#2049B7;stop-opacity:1"/>
 					</linearGradient>
 					<linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(516.161,-33.3395,-33.3395,-516.161,1.47553,263.61)">
-						<stop offset="0" style="stop-color:#f83e5a;stop-opacity:1"/>
-						<stop offset="0.52" style="stop-color:#f83e5a;stop-opacity:0.784314"/>
-						<stop offset="1" style="stop-color:#d1344c;stop-opacity:1"/>
+						<stop offset="0" style="stop-color:#0066cc;stop-opacity:1"/>
+						<stop offset="0.52" style="stop-color:#0066cc;stop-opacity:0.784314"/>
+						<stop offset="1" style="stop-color:#2049b7;stop-opacity:1"/>
 					</linearGradient>
 					<linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(91.0761,-255.538,-255.538,-91.0761,985.332,477.64)">
 						<stop offset="0" style="stop-color:#c2bfff;stop-opacity:0"/>
-						<stop offset="0.52" style="stop-color:#f83e5a;stop-opacity:0.784314"/>
-						<stop offset="1" style="stop-color:#d1344c;stop-opacity:1"/>
+						<stop offset="0.52" style="stop-color:#0066cc;stop-opacity:0.784314"/>
+						<stop offset="1" style="stop-color:#2A63F0;stop-opacity:1"/>
 					</linearGradient>
 					<linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.04e-05,-162.496,209.621,5.45735e-05,658.576,179.71)">
-						<stop offset="0" style="stop-color:#d1344c;stop-opacity:0"/>
-						<stop offset="1" style="stop-color:#d1344c;stop-opacity:1"/>
+						<stop offset="0" style="stop-color:#2A63F0;stop-opacity:0"/>
+						<stop offset="1" style="stop-color:#2A63F0;stop-opacity:1"/>
 					</linearGradient>
 				</defs>
             </svg>

@@ -13,12 +13,12 @@ $testo_servizi = dsi_get_option("testo_servizi", "servizi");
               </g>
 			<defs>
 				<linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.76961e-14,289,-289,1.76961e-14,289,70)">
-					<stop offset="0" style="stop-color:#610e0e;stop-opacity:1"/>
-					<stop offset="1" style="stop-color:#b21dd0;stop-opacity:0.61"/>
+					<stop offset="0" style="stop-color:#1e48aa;stop-opacity:1"/>
+					<stop offset="1" style="stop-color:#2a65f5;stop-opacity:0.61"/>
 				</linearGradient>
 				<linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-578,-7.07846e-14,7.07846e-14,-578,578,144.5)">
-					<stop offset="0" style="stop-color:#590e61;stop-opacity:0"/>
-					<stop offset="1" style="stop-color:#b21dd0;stop-opacity:1"/>
+					<stop offset="0" style="stop-color:#1e48aa;stop-opacity:0"/>
+					<stop offset="1" style="stop-color:#2a65f5;stop-opacity:1"/>
 				</linearGradient>
 			</defs>
             </svg>
