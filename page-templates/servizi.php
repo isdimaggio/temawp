@@ -27,7 +27,6 @@ get_header();
 			    }
 
             }
-            get_template_part("template-parts/home/indirizzi");
 
 
 		endwhile; // End of the loop.
